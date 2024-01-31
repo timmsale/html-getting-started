@@ -1,1 +1,47 @@
 /* Add screen styles below */
+body{
+    margin-top: 100px;
+    background-color:#37323E;
+    font-family: Arial, Helvetica, sans-serif;
+
+    
+}
+.card{
+    background-color: #FDFFFC;
+    margin: 0 auto; /* produces even padding on both sides of design*/
+    width: 500px;
+    height: 300px;
+    border-radius: 20px;
+    box-shadow: 0 0 30px rgba(0,0,0,0.3);
+
+}
+
+.card div{
+    padding: 10px;
+
+}
+
+h1 {
+    color: #FDFFFC;
+    background-color: #235789;
+    margin: 0px;
+    padding: 20px;
+    border-top-right-radius: 20px;
+    border-top-left-radius: 20px;
+
+}
+
+h2 {
+    color: #020100;
+    margin-bottom: 5px;
+}
+
+ul {
+    color:#020100;
+    margin: 0px;
+}
+
+img{
+    float: left;
+    margin-right: 20px;
+}
